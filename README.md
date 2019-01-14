@@ -1,2 +1,2 @@
 # machineLearning
-for implementing vareious machine learning algorithms in python by using its libraries
+This branch tells how to implement linear regression. I have calculated the weights of various parameters and also the mean squared error.
