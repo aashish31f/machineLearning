@@ -1,2 +1,2 @@
 # machineLearning
-This branch tells how to implement linear regression. I have calculated the weights of various parameters and also the mean squared error.
+Here I implement various machine learning algorithms using library functions and fundamentally .
